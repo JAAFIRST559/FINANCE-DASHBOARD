@@ -1,6 +1,4 @@
-This is the final, comprehensive **README.md** refactored for a professional GitHub repository. It incorporates the system design, the fintech-grade upgrades (Redis, Idempotency, Audit Logs), and the full DevOps suite (Docker, CI/CD).
 
-```markdown
 # 💰 Finance Dashboard Backend
 ### 🚀 Fintech-Grade API with FastAPI, PostgreSQL, & Redis
 
